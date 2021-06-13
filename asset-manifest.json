@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/entertainmnet-application/static/css/main.651dc6e0.chunk.css",
+    "main.css": "/entertainmnet-application/static/css/main.04abd6a1.chunk.css",
     "main.js": "/entertainmnet-application/static/js/main.9b6ae2c9.chunk.js",
     "main.js.map": "/entertainmnet-application/static/js/main.9b6ae2c9.chunk.js.map",
     "runtime-main.js": "/entertainmnet-application/static/js/runtime-main.6815feb2.js",
@@ -8,13 +8,13 @@
     "static/js/2.2695f8c3.chunk.js": "/entertainmnet-application/static/js/2.2695f8c3.chunk.js",
     "static/js/2.2695f8c3.chunk.js.map": "/entertainmnet-application/static/js/2.2695f8c3.chunk.js.map",
     "index.html": "/entertainmnet-application/index.html",
-    "static/css/main.651dc6e0.chunk.css.map": "/entertainmnet-application/static/css/main.651dc6e0.chunk.css.map",
+    "static/css/main.04abd6a1.chunk.css.map": "/entertainmnet-application/static/css/main.04abd6a1.chunk.css.map",
     "static/js/2.2695f8c3.chunk.js.LICENSE.txt": "/entertainmnet-application/static/js/2.2695f8c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6815feb2.js",
     "static/js/2.2695f8c3.chunk.js",
-    "static/css/main.651dc6e0.chunk.css",
+    "static/css/main.04abd6a1.chunk.css",
     "static/js/main.9b6ae2c9.chunk.js"
   ]
 }
