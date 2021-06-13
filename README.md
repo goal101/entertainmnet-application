@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+live site: https://goal101.github.io/entertainmnet-application/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
