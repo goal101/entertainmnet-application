@@ -1,0 +1,44 @@
+.genres {
+  /* background-color: red; */
+  /* padding-top: 110px; */
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin-bottom: 1em;
+}
+
+.genre {
+  background-color: #d9dad7;
+  margin: 3px 2px;
+  border-radius: 1em;
+  align-items: center;
+  box-sizing: border-box;
+  cursor: pointer;
+  height: 1.3em;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.9rem;
+}
+
+.genre span {
+  color: black;
+  padding: 0.3em;
+}
+
+.genre:hover {
+  background-color: #b1b9ca;
+}
+
+.genre--active {
+  background-color: #3e4a61;
+  /* background-color: #275ab2; */
+}
+
+.genre--active span {
+  color: #d9dad7;
+}
+
+.genre--active span:hover {
+  color: black;
+}

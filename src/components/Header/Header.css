@@ -1,0 +1,27 @@
+.header {
+  background-color: #1a2639;
+  /* position: fixed;
+  width: 100%;
+  z-index: 1; */
+}
+
+.header__nav-list {
+  height: 80px;
+  margin-top: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.header__nav-item a {
+  color: #d9dad7;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header__nav-item a:hover {
+  color: #5c6370;
+}

@@ -1,0 +1,25 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+  color: #d9dad7;
+  margin: 1em 0;
+}
+
+.pagination__content {
+  display: flex;
+  align-items: center;
+}
+
+.pagination__content div {
+  margin: 0 1em;
+}
+
+.arrow {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.arrow + .arrow {
+  margin-left: 1.5em;
+}
