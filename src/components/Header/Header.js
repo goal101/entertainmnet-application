@@ -12,25 +12,25 @@ export default function Header() {
         <nav className="header__nav">
           <ul className="header__nav-list">
             <li className="header__nav-item">
-              <a href="/">
+              <a href="https://goal101.github.io/entertainmnet-application/#/">
                 <WhatshotIcon />
                 <span>Trending</span>
               </a>
             </li>
             <li className="header__nav-item">
-              <a href="/movies">
+              <a href="https://goal101.github.io/entertainmnet-application/#/movies">
                 <MovieIcon />
                 <span>Movies</span>
               </a>
             </li>
             <li className="header__nav-item">
-              <a href="/series">
+              <a href="https://goal101.github.io/entertainmnet-application/#/series">
                 <TvIcon />
                 <span>Series</span>
               </a>
             </li>
             <li className="header__nav-item">
-              <a href="/search">
+              <a href="https://goal101.github.io/entertainmnet-application/#/search">
                 <SearchIcon />
                 <span>Search</span>
               </a>
